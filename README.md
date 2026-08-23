@@ -1,2 +1,5 @@
-# iPAS-Cybersecurity-Junior-Level
-Study notes for obtaining the iPAS cybersecurity engineer certification
+# Cybersecurity-Learning-Notes  
+
+Notes on learning cybersecurity
+
+Also, learning about iPAS cybersecurity certification.
